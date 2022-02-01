@@ -1,0 +1,7 @@
+https://kauth.kakao.com/oauth/authorize?client_id=8cc0852376ccb892823e5b1262d061ec&response_type=code&redirect_uri=https://localhost.com
+
+https://localhost.com/?code=lEu_63gQVHTcw2ThXA0WHhG2RMnMqNKcOHt3iIKBRKq2Zy3x_hmzv51zWkHg1aN_R3Ac4Qo9dBEAAAF-tfs6lA
+
+{'access_token': '_GpS88iOkwyU1aQoyv6JhVQTF8qkn0w9hcQ6cwo9dNkAAAF-pgxx6A', 'token_type': 'bearer', 
+'refresh_token': 'U4vbNEJxnNUWyEuelBC8gPHix_rSO5CV2S0fRQo9dNkAAAF-pgxx5g', 
+'expires_in': 21599, 'scope': 'account_email talk_message profile_nickname', 'refresh_token_expires_in': 5183999}
